@@ -1,0 +1,34 @@
+# Assembly name:  ASM37954v1
+# Organism name:  Acetobacter aceti ATCC 23746 (a-proteobacteria)
+# Infraspecific name:  strain=ATCC 23746
+# Taxid:          663932
+# BioSample:      SAMN02256453
+# BioProject:     PRJNA165291
+# Submitter:      DOE Joint Genome Institute
+# Date:           2013-04-23
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Scaffold
+# Genome representation: full
+# WGS project:    ARBD01
+# Assembly method: Velvet v. 1.1.05; ALLPATHS v. r38445; Phrap v. 4.24
+# Genome coverage: Unknown
+# Sequencing technology: Illumina HiSeq 2000 (Std PE); Illumina HiSeq 2000 (CLIP PE)
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_000379545.1
+# RefSeq assembly accession: GCF_000379545.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000379555.1	GCF_000379555.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+A39UDRAFT_scaffold1.3	unplaced-scaffold	na	na	KB902575.1	=	NZ_KB902575.1	Primary Assembly	3683903	na
+A39UDRAFT_scaffold2.1	unplaced-scaffold	na	na	KB902576.1	=	NZ_KB902576.1	Primary Assembly	3912	na
+A39UDRAFT_scaffold3.2	unplaced-scaffold	na	na	KB902577.1	=	NZ_KB902577.1	Primary Assembly	2953	na
